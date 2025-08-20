@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { projects } from "../data/projectsData.js";
+import { projects } from "../data/ProjectsData.js";
 
 export default function Projects() {
   return (
