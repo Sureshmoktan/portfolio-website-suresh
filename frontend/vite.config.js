@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/portfolio-website-suresh/',   // 👈 add this line
   plugins: [
     react(),
     tailwindcss(),
