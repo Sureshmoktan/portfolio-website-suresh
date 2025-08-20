@@ -25,7 +25,7 @@ export const projects = [
       tech: ["React", "Tailwind CSS"],
       image: "Projects/calculator.png",
       demo: "https://calculator-demo.com",
-      github: "https://github.com/yourusername/calculator",
+      github: "https://github.com/Sureshmoktan/calculator",
     },
   ];
   
